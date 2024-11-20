@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ShrilekhaManchirala
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C,Java,Python
-- I'm doing AIML internship at SkillDunia
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- I have completed AIML internship at SkillDunia
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me:LinkedIn
+- 😄 Pronouns: She/her
 - ⚡ Fun fact: ...
 
 <!---
